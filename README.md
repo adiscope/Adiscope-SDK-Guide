@@ -2,7 +2,7 @@
 
 Adiscope SDK 통합 가이드 페이지입니다. 플랫폼과 광고 네트워크를 선택하면 필요한 의존성 코드가 자동으로 생성됩니다.
 
-**[→ 가이드 페이지 바로가기](https://adiscope.github.io/Adiscope-Total-SDK-Guide/)**
+**[→ 가이드 페이지 바로가기](https://adiscope.github.io/Adiscope-SDK-Guide/)**
 
 ## 주요 기능
 
